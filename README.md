@@ -1,6 +1,6 @@
 # jangan_di_klik
 
-buat isengin pc temen :
+copy this!! and paste in notepad and save as to .bat
 
 @echo off
 
